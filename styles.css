@@ -1,0 +1,73 @@
+h1,
+h2,
+p{
+    text-align: center;
+}
+body{
+     background-image: url(R\ \(1\).jpeg);
+     
+}
+.menu{
+    background-color: burlywood;
+    width: 50%;
+    margin-left:auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+
+
+
+.flavour, .dessert{
+    text-align: left;
+    width: 50%;
+}
+.price{
+    text-align: right;
+    width: 50%;
+}
+.item p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#established{
+    font-size:italic ;
+}
+
+h1{
+    font-size: 40px; 
+}
+
+h2{
+    font-size: 40px;
+}
+
+h1 h2{
+    font-family: Impact ;
+}
+
+hr{
+height: 2px;
+background-color: brown;
+border-color: brown;
+}
+.icon{
+    text-align: center;
+    margin-top: -20px;
+}
+
+a{
+    color: black;
+}
+a :hover{
+    color: brown;
+}
+ a:visited {
+    color: brown;
+ }
+
+.dessert{
+    text-align: left;
+    width: 50%;
+}
